@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Local scratch / verification scripts, never shipped
+.scratch/
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store

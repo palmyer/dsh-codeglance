@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session minimap",
+    "description": "Shows a CodeGlance-style overview of the whole conversation on the right edge; drag it to jump."
+  }
+}

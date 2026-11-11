@@ -1,0 +1,4 @@
+# Keep LF in the repository AND in the working copy.
+# This plugin is plain ESM/JS loaded by the harness; CRLF serves no purpose
+# here, and autocrlf=true would otherwise rewrite every file on checkout.
+* text=auto eol=lf

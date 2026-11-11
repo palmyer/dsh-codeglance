@@ -1,0 +1,5 @@
+# @local/dsh-codeglance bundle patch: one insert over the profile root.
+# The Host half is inert; the Client half renders the conversation minimap.
+- insert:
+    - id: dsh-codeglance
+      name: '@local/dsh-codeglance'
