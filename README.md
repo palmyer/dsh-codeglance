@@ -89,7 +89,7 @@ New-Item -ItemType SymbolicLink `
 
 ## 许可
 
-未声明许可证。如需使用请先联系仓库作者。
+[MIT](LICENSE) © 2026 weijingjiang
 
 ---
 
@@ -136,4 +136,4 @@ package — this repo is **not** published to npm.
 
 ### License
 
-No license declared. Contact the author before use.
+[MIT](LICENSE) © 2026 weijingjiang

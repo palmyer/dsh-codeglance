@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Session minimap: a CodeGlance-style scaled overview of the conversation on the right edge.",
+  "license": "MIT",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -15,7 +16,9 @@
     "client.js",
     "cordis.patch.yml",
     "locale/*.json",
-    "icon.svg"
+    "icon.svg",
+    "LICENSE",
+    "README.md"
   ],
   "dsh": {
     "bundle": {
